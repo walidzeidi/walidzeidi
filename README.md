@@ -17,10 +17,9 @@ Avec plus de 15 ans d’expérience dans la conception d’applications web perf
 
 #### 🛠️ Responsable de projet (Freelance) : AZ Esthétique
 *Décembre 2022 – Janvier 2023 | Tunisie*
-- Participation à la création d’une agence de chirurgie esthétique.
-- **Identité visuelle :** Conception complète du logo et de la charte graphique.
-- **Développement Web & CMS :** Design et développement du site web sous WordPress.
-- **Application métier sur mesure :** Développement d’une application web sur mesure pour la gestion des demandes de chirurgie esthétique, assurant un traitement sécurisé et centralisé des informations patients.
+- Conception de l'identité visuelle : **logo** et **charte graphique**.
+- Développement du site web sous **WordPress**, avec **intégration de maquette graphique** et **création de plugins** dédiés à la chirurgie esthétique.
+- Conception d'une **plateforme de gestion du parcours patient en chirurgie esthétique** : diagnostic médical à distance, devis, envoi des photos, suivi de voyage et suivi post-opératoire.
 
 #### 👨‍💻 Responsable Informatique : Siroko Travel
 *Octobre 2009 – Décembre 2022 | Tunis*
