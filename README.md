@@ -9,9 +9,11 @@ Avec plus de 15 ans d’expérience dans la conception d’applications web perf
 
 #### 🚀 Développeur Web Full Stack & Intégrateur : Affitech
 *Février 2023 – Juin 2026 | Tunisie*
-- **Intégration et gestion d'API complexes :** Connexion des services de **Powens, Energrid et HomeServe** au sein des applications web d'Affinicia, permettant la centralisation et la synchronisation entièrement sécurisée des données bancaires, énergétiques et de services clients.
-- **Co-conception et développement de la plateforme Helee :** Création d'un moteur de segmentation marketing capable de traiter des millions de profils en temps réel pour des campagnes omnicanales (Email, SMS, Phoning). Optimisation et gestion de bases de données à forte volumétrie pour garantir une rapidité absolue, une fiabilité totale et une scalabilité face à la charge.
-- **Outils intelligents pour centres d'appels :** Conception et développement de scripts dynamiques d'aide à la vente pour booster la performance des agents, de modules de communication unifiée (agents, superviseurs, clients), et intégration de systèmes d'évaluation automatisée via l'**IA** pour optimiser le contrôle qualité.
+- Création et intégration d'API externes au sein de la plateforme AffiConnect d'Affinicia France — **Powens, Enedis, Energrid, Météore, HomeServe, Santévet et Bulle Bleue** — avec intégration graphique des interfaces utilisateur, centralisation et synchronisation sécurisée des données bancaires, énergétiques, d'assurance et de services clients.
+- Conception de **Helee**, moteur de segmentation marketing traitant des millions de profils en temps réel pour des campagnes omnicanales (Email, SMS, Phoning), avec optimisation de bases de données à forte volumétrie.
+Co-conception de **Scribb**, un système d'évaluation automatisée par Intelligence Artificielle, conçu pour optimiser le contrôle qualité et l'efficacité des processus opérationnels.
+- Co-conception d'**Affi+**, une plateforme de gestion des contrats d'électricité et de gaz, simplifiant leur gestion au quotidien.
+- Co-conception d'une plateforme **AffiConnect** pour Affinicia France dédiée aux centres d'appels, permettant de centraliser la gestion des centres d'appel et des agents ainsi que le suivi et l'amélioration des ventes, et intégrant un script de gestion d'appel entre l'agent et le client pour faciliter la vente.
 
 #### 🛠️ Responsable de projet (Freelance) : AZ Esthétique
 *Décembre 2022 – Janvier 2023 | Tunisie*
