@@ -23,9 +23,10 @@ Avec plus de 15 ans d’expérience dans la conception d’applications web perf
 
 #### 👨‍💻 Responsable Informatique : Siroko Travel
 *Octobre 2009 – Décembre 2022 | Tunis*
-- **Application métier sur mesure :** Conception et développement d’une application web dédiée à la gestion des demandes de devis en chirurgie esthétique. Intégration d'un système de collecte hautement sécurisé pour les photos et centralisation des informations confidentielles (conformité RGPD et protection des données sensibles).
-- **Architecture de données & Espaces dédiés :** Mise en place d’une infrastructure de base de données centralisée pour les dossiers médicaux. Développement d'un *espace praticien* pour les diagnostics des chirurgiens et d'un *espace client* interactif pour le suivi des patients en temps réel, fluidifiant la coordination globale.
-- **Stratégie multisite & SEO :** Création, déploiement et gestion technique d’un réseau de plus de 15 sites web médicaux (WordPress et technologies sur mesure), maximisant la visibilité de l’agence et propulsant le référencement naturel (SEO).
+- Conception de trois plateformes interconnectées de gestion du parcours patient en chirurgie esthétique — dédiées respectivement aux patients, aux chirurgiens et aux agents — synchronisées en temps réel pour le suivi du diagnostic médical à distance, des devis, du voyage et du suivi post-opératoire.
+- Mise en place d'une infrastructure de base de données centralisée, socle commun aux trois plateformes, garantissant l'intégrité des dossiers médicaux et clients ainsi que la confidentialité des données échangées (photos, diagnostics, devis).
+- Conception d'un réseau de 15+ sites web médicaux visant à renforcer la présence SEO du site principal et à augmenter le volume de demandes de devis.
+- Refonte technique et graphique des sites web de l'agence, intégrant des maquettes graphiques avec une cohérence de l'interface sur tous les types d'écrans (Responsive Design).
 
 ---
 
