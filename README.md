@@ -3,8 +3,8 @@
 
 📧 **Email :** zaidi.walid@gmail.com  
 📞 **Téléphone :** +216 50 65 61 49  
-📍 **Localisation :** Tunis, Tunisie (Nationalité tunisienne / Autorisé à travailler en Tunisie)  
-🌐 **Mobilité :** Ouvert au Remote (Télétravail) & Opportunités à l'international / Relocalisation  
+📍 **Localisation :** Tunis, Tunisie (Nationalité tunisienne)  
+🌐 **Mobilité :** Ouvert au Remote (Télétravail) & Opportunités à l'international  
 🔗 **LinkedIn :** [linkedin.com/in/walid-zeidi](https://linkedin.com/in/walid-zeidi)  
 
 ---
